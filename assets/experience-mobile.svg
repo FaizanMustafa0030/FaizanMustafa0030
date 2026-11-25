@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="432" height="539" viewBox="0 0 432 539" role="img" aria-labelledby="title description" font-family="Segoe UI, Arial, sans-serif">
+  <title id="title">Professional Experience</title>
+  <desc id="description">Web Development Intern, Badar Munir Ahmed Solutions, June 2026 – August 2026. Gained hands-on exposure to web technologies and development tools and learned how a professional software team organizes and carries out project work. Data Analyst Intern, VirtualUX (SMC-Private) Limited, February 2026 – May 2026. Conducted business research and B2B lead generation with LinkedIn Sales Navigator and Seamless.ai. Worked with Microsoft Excel, Microsoft Power BI, and Google Sheets. Cleaned and verified data and removed duplicate records.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#101e35"/>
+      <stop offset="1" stop-color="#0b1527"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="431" height="538" rx="22" fill="url(#panel)" stroke="#304568"/>
+  <path d="M28 46v250" stroke="#536d9a" stroke-width="2"/>
+  <circle cx="28" cy="46" r="7" fill="#162442" stroke="#80d6ff" stroke-width="2.5"/>
+  <rect x="49" y="17" width="366" height="235" rx="15" fill="#13233d" stroke="#304568"/>
+  <text x="66" y="45" font-size="16" fill="#80d6ff" font-weight="650" text-anchor="start">June 2026 – August 2026</text>
+  <text x="66" y="78" font-size="23" fill="#f0f5ff" font-weight="680" text-anchor="start">Web Development Intern</text>
+  <text x="66" y="104" font-size="17" fill="#bfcee9" font-weight="600" text-anchor="start">Badar Munir Ahmed Solutions</text>
+  <text x="66" y="136" font-size="17" fill="#bfcee9" font-weight="400" text-anchor="start">Gained hands-on exposure to web</text>
+  <text x="66" y="158" font-size="17" fill="#bfcee9" font-weight="400" text-anchor="start">technologies and development tools</text>
+  <text x="66" y="180" font-size="17" fill="#bfcee9" font-weight="400" text-anchor="start">and learned how a professional software</text>
+  <text x="66" y="202" font-size="17" fill="#bfcee9" font-weight="400" text-anchor="start">team organizes and carries out project</text>
+  <text x="66" y="224" font-size="17" fill="#bfcee9" font-weight="400" text-anchor="start">work.</text>
+  <circle cx="28" cy="296" r="7" fill="#162442" stroke="#d0baff" stroke-width="2.5"/>
+  <rect x="49" y="267" width="366" height="255" rx="15" fill="#13233d" stroke="#304568"/>
+  <text x="66" y="295" font-size="16" fill="#d0baff" font-weight="650" text-anchor="start">February 2026 – May 2026</text>
+  <text x="66" y="328" font-size="23" fill="#f0f5ff" font-weight="680" text-anchor="start">Data Analyst Intern</text>
+  <text x="66" y="354" font-size="17" fill="#bfcee9" font-weight="600" text-anchor="start">VirtualUX (SMC-Private) Limited</text>
+  <text x="66" y="386" font-size="17" fill="#bfcee9" font-weight="400" text-anchor="start">Conducted business research and B2B</text>
+  <text x="66" y="408" font-size="17" fill="#bfcee9" font-weight="400" text-anchor="start">lead generation with LinkedIn Sales</text>
+  <text x="66" y="430" font-size="17" fill="#bfcee9" font-weight="400" text-anchor="start">Navigator and Seamless.ai. Worked with</text>
+  <text x="66" y="452" font-size="17" fill="#bfcee9" font-weight="400" text-anchor="start">Excel, Power BI, and Google Sheets.</text>
+  <text x="66" y="474" font-size="17" fill="#bfcee9" font-weight="400" text-anchor="start">Cleaned and verified data and removed</text>
+  <text x="66" y="496" font-size="17" fill="#bfcee9" font-weight="400" text-anchor="start">duplicate records.</text>
+</svg>

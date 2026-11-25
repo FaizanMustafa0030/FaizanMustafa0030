@@ -1,125 +1,79 @@
 <p align="center">
   <picture>
-    <source media="(max-width: 520px)" srcset="assets/banner-mobile.svg">
-    <img src="assets/banner.svg" width="760" alt="Faizan Mustafa. Web Developer | Software Developer | Data Analyst. Building Software. Solving Problems. Transforming Data.">
+    <source media="(max-width: 600px)" srcset="assets/banner-mobile.svg">
+    <img src="assets/banner.svg" width="800" alt="Hi there, I&#x27;m Faizan Mustafa. Web Developer, Software Developer, Data Analyst. Software Engineering Student.">
   </picture>
 </p>
 
 ## About Me
 
-I’m a sixth-semester BS Software Engineering student at Superior University in Lahore, Pakistan, with an expected graduation year of **2028** and a **CGPA of 3.29/4.00**. I’ve interned in web development and data analysis. **Python and Node.js** are my strongest technical skills, and I’m interested in software development, data analytics, and software quality assurance.
-
-I’m open to freelance and remote opportunities.
-
-## Professional Focus
-
-| Web Development | Software Development | Data Analysis |
-| --- | --- | --- |
-| Responsive websites | Python, Java, and C++ | Microsoft Power BI |
-| Frontend and backend development | Object-oriented programming | Microsoft Excel |
-| React and WordPress | Database applications | SQL and Google Sheets |
-| Node.js and REST APIs | Application development and testing | Data cleaning and business research |
-
-## Technology Stack
-
-### Programming Languages
-
-<p>
-  <img src="assets/icons/python.svg" width="36" height="36" align="middle" alt="">&nbsp;Python &nbsp;
-  <img src="assets/icons/javascript.svg" width="36" height="36" align="middle" alt="">&nbsp;JavaScript &nbsp;
-  <img src="assets/icons/java.svg" width="36" height="36" align="middle" alt="">&nbsp;Java &nbsp;
-  <img src="assets/icons/cplusplus.svg" width="36" height="36" align="middle" alt="">&nbsp;C++ &nbsp;
-  <img src="assets/icons/sql.svg" width="36" height="36" align="middle" alt="">&nbsp;SQL
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/about-mobile.svg">
+    <img src="assets/about.svg" width="800" alt="About Me. Software Engineering: Undergraduate at Superior University. Internship Experience: Web development and data analysis. Python &amp; Node.js: Primary development tools. Open to Opportunities: Freelance and remote work">
+  </picture>
 </p>
 
-### Web Development
+## Skills
 
-<p>
-  <img src="assets/icons/nodejs.svg" width="36" height="36" align="middle" alt="">&nbsp;Node.js &nbsp;
-  <img src="assets/icons/react.svg" width="36" height="36" align="middle" alt="">&nbsp;React &nbsp;
-  <img src="assets/icons/html5.svg" width="36" height="36" align="middle" alt="">&nbsp;HTML5 &nbsp;
-  <img src="assets/icons/css3.svg" width="36" height="36" align="middle" alt="">&nbsp;CSS3 &nbsp;
-  <img src="assets/icons/bootstrap.svg" width="36" height="36" align="middle" alt="">&nbsp;Bootstrap &nbsp;
-  <img src="assets/icons/wordpress.svg" width="36" height="36" align="middle" alt="">&nbsp;WordPress
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/web-development-mobile.svg">
+    <img src="assets/web-development.svg" width="800" alt="Web Development. Python, Node.js, React, JavaScript, WordPress, HTML5, CSS3, Bootstrap">
+  </picture>
 </p>
 
-### Databases
-
-<p>
-  <img src="assets/icons/mysql.svg" width="36" height="36" align="middle" alt="">&nbsp;MySQL &nbsp;
-  <img src="assets/icons/mysql-workbench.svg" width="36" height="36" align="middle" alt="">&nbsp;MySQL&nbsp;Workbench
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/software-development-mobile.svg">
+    <img src="assets/software-development.svg" width="800" alt="Software Development. Python, Java, C++, Git, GitHub, VS Code, IntelliJ IDEA, Android Studio, NetBeans">
+  </picture>
 </p>
 
-### Data Analysis
-
-<p>
-  <img src="assets/icons/power-bi.svg" width="36" height="36" align="middle" alt="">&nbsp;Microsoft&nbsp;Power&nbsp;BI &nbsp;
-  <img src="assets/icons/excel.svg" width="36" height="36" align="middle" alt="">&nbsp;Microsoft&nbsp;Excel &nbsp;
-  <img src="assets/icons/google-sheets.svg" width="36" height="36" align="middle" alt="">&nbsp;Google&nbsp;Sheets &nbsp;
-  <img src="assets/icons/python.svg" width="36" height="36" align="middle" alt="">&nbsp;Python &nbsp;
-  <img src="assets/icons/sql.svg" width="36" height="36" align="middle" alt="">&nbsp;SQL
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/data-analysis-mobile.svg">
+    <img src="assets/data-analysis.svg" width="800" alt="Data Analysis. Microsoft Power BI, Microsoft Excel, MySQL, SQL, Google Sheets, Python">
+  </picture>
 </p>
 
-### Software Testing
-
-<p>
-  <img src="assets/icons/postman.svg" width="36" height="36" align="middle" alt="">&nbsp;Postman &nbsp;
-  <img src="assets/icons/manual-testing.svg" width="36" height="36" align="middle" alt="">&nbsp;Manual&nbsp;Testing &nbsp;
-  <img src="assets/icons/api-testing.svg" width="36" height="36" align="middle" alt="">&nbsp;API&nbsp;Testing &nbsp;
-  <img src="assets/icons/functional-testing.svg" width="36" height="36" align="middle" alt="">&nbsp;Functional&nbsp;Testing &nbsp;
-  <img src="assets/icons/bug-reporting.svg" width="36" height="36" align="middle" alt="">&nbsp;Bug&nbsp;Reporting
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/software-testing-mobile.svg">
+    <img src="assets/software-testing.svg" width="800" alt="Software Testing. Postman, API Testing, Manual Testing, Functional Testing, Bug Reporting">
+  </picture>
 </p>
 
-### Development Tools
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/lead-generation-mobile.svg">
+    <img src="assets/lead-generation.svg" width="800" alt="Research and Lead Generation. LinkedIn Sales Navigator, Seamless.ai, Google Maps, Data Cleaning, Data Validation">
+  </picture>
+</p>
 
-<p>
-  <img src="assets/icons/git.svg" width="36" height="36" align="middle" alt="">&nbsp;Git &nbsp;
-  <img src="assets/icons/github.svg" width="36" height="36" align="middle" alt="">&nbsp;GitHub &nbsp;
-  <img src="assets/icons/vscode.svg" width="36" height="36" align="middle" alt="">&nbsp;VS&nbsp;Code &nbsp;
-  <img src="assets/icons/intellij.svg" width="36" height="36" align="middle" alt="">&nbsp;IntelliJ&nbsp;IDEA &nbsp;
-  <img src="assets/icons/androidstudio.svg" width="36" height="36" align="middle" alt="">&nbsp;Android&nbsp;Studio &nbsp;
-  <img src="assets/icons/netbeans.svg" width="36" height="36" align="middle" alt="">&nbsp;NetBeans
+## Featured Projects
+
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/projects-mobile.svg">
+    <img src="assets/projects.svg" width="800" alt="Featured Projects. Development: Personal Portfolio Website. Built a personal portfolio using React, Vite, and Tailwind CSS. Development: Online Shopping System. Built product browsing, cart, checkout, and order history with Java Swing and MySQL. Academic testing: Attendance Management System. Verified attendance workflows, database CRUD operations, and report outputs. Academic testing: Courier Pick &amp; Drop Website. Tested booking and tracking flows and checked API behavior in Postman. Academic testing: File Explorer System. Tested file operations and invalid inputs. Documented defects. Academic testing: Lost &amp; Found Community App. Tested form validation and authentication flows in the Flutter app. Academic testing: AI/NLP Chatbot. Tested intent recognition, response accuracy, fallback behavior, and the API.">
+  </picture>
 </p>
 
 ## Professional Experience
 
-### Web Development Intern · Badar Munir Ahmed Solutions
-
-*June 2026 – August 2026*
-
-Gained hands-on exposure to web technologies and development tools and learned how a professional software team organizes and carries out project work.
-
-### Data Analyst Intern · VirtualUX (SMC-Private) Limited
-
-*February 2026 – May 2026*
-
-Conducted business research and B2B lead generation using LinkedIn Sales Navigator and Seamless.ai. Worked with Microsoft Excel, Microsoft Power BI, and Google Sheets. Cleaned and verified data and removed duplicate records.
-
-## Featured Projects
-
-### Development Projects
-
-| Project | Development contribution |
-| --- | --- |
-| **Personal Portfolio Website** | Built a personal portfolio site with React, Vite, and Tailwind CSS. |
-| **Online Shopping System** | Built a Java Swing application backed by MySQL. Implemented product browsing, a shopping cart, checkout, and order history. |
-
-### Software Testing Projects
-
-| Project | Testing contribution |
-| --- | --- |
-| **Attendance Management System** | Tested attendance workflows, validated database create, read, update, and delete operations, and checked report outputs. |
-| **Courier Pick & Drop Website** | Tested booking and tracking flows and checked API behavior in Postman. |
-| **File Explorer System** | Tested file operations and invalid inputs, and documented defects. |
-| **Lost & Found Community App** | Tested the Flutter app’s form validation and authentication flows. |
-| **AI/NLP Chatbot** | Tested intent recognition, response accuracy, fallback behavior, and the API. |
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/experience-mobile.svg">
+    <img src="assets/experience.svg" width="800" alt="Professional Experience. Web Development Intern, Badar Munir Ahmed Solutions, June 2026 – August 2026. Gained hands-on exposure to web technologies and development tools and learned how a professional software team organizes and carries out project work. Data Analyst Intern, VirtualUX (SMC-Private) Limited, February 2026 – May 2026. Conducted business research and B2B lead generation with LinkedIn Sales Navigator and Seamless.ai. Worked with Microsoft Excel, Microsoft Power BI, and Google Sheets. Cleaned and verified data and removed duplicate records.">
+  </picture>
+</p>
 
 ## Education & Training
 
-**BS Software Engineering** · Superior University, Lahore
-
-| Course or training | Date |
-| --- | --- |
-| AWS Cloud Practitioner Essentials (course completion) | October 2026 |
-| SQL Fundamentals | December 2025 |
-| Life Management Skills Training Program | March 2024 |
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/education-mobile.svg">
+    <img src="assets/education.svg" width="800" alt="Education and Training. BS Software Engineering, Superior University, Lahore. Sixth semester, expected graduation in 2028, CGPA 3.29 out of 4.00. AWS Cloud Practitioner Essentials, Course completion · October 2026. SQL Fundamentals, Training · December 2025. Life Management Skills Training Program, Training · March 2024">
+  </picture>
+</p>

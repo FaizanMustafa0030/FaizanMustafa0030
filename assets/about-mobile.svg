@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="432" height="432" viewBox="0 0 432 432" role="img" aria-labelledby="title description" font-family="Segoe UI, Arial, sans-serif">
+  <title id="title">About Me</title>
+  <desc id="description">Software Engineering: Undergraduate at Superior University. Internship Experience: Web development and data analysis. Python &amp; Node.js: Primary development tools. Open to Opportunities: Freelance and remote work</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#101e35"/>
+      <stop offset="1" stop-color="#0b1527"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="431" height="431" rx="22" fill="url(#panel)" stroke="#304568"/>
+  <rect x="18" y="18" width="396" height="90" rx="15" fill="#13233d" stroke="#304568"/>
+  <rect x="33" y="38" width="50" height="50" rx="14" fill="#1c3154" stroke="#38547a"/>
+  <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 48 48" x="43" y="48">
+    <g fill="none" stroke="#8ad6ff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="m6 18 18-9 18 9-18 9-18-9Zm8 5v9c6 6 14 6 20 0v-9m8-4v12" /></g>
+  </svg>
+  <text x="98" y="56" font-size="22" fill="#f0f5ff" font-weight="650" text-anchor="start">Software Engineering</text>
+  <text x="98" y="81" font-size="17" fill="#bfcee9" font-weight="400" text-anchor="start">Undergraduate at Superior University</text>
+  <rect x="18" y="120" width="396" height="90" rx="15" fill="#13233d" stroke="#304568"/>
+  <rect x="33" y="140" width="50" height="50" rx="14" fill="#1c3154" stroke="#38547a"/>
+  <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 48 48" x="43" y="150">
+    <g fill="none" stroke="#c5aaff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><rect x="7" y="15" width="34" height="23" rx="5" /><path d="M18 15v-4a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v4M7 23c9 6 25 6 34 0m-19 4h4" /></g>
+  </svg>
+  <text x="98" y="158" font-size="22" fill="#f0f5ff" font-weight="650" text-anchor="start">Internship Experience</text>
+  <text x="98" y="183" font-size="17" fill="#bfcee9" font-weight="400" text-anchor="start">Web development and data analysis</text>
+  <rect x="18" y="222" width="396" height="90" rx="15" fill="#13233d" stroke="#304568"/>
+  <rect x="33" y="242" width="50" height="50" rx="14" fill="#1c3154" stroke="#38547a"/>
+  <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 48 48" x="43" y="252">
+    <g fill="none" stroke="#8ad6ff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="m17 15-9 9 9 9m14-18 9 9-9 9m-4-20-6 22" /></g>
+  </svg>
+  <text x="98" y="260" font-size="22" fill="#f0f5ff" font-weight="650" text-anchor="start">Python &amp; Node.js</text>
+  <text x="98" y="285" font-size="17" fill="#bfcee9" font-weight="400" text-anchor="start">Primary development tools</text>
+  <rect x="18" y="324" width="396" height="90" rx="15" fill="#13233d" stroke="#304568"/>
+  <rect x="33" y="344" width="50" height="50" rx="14" fill="#1c3154" stroke="#38547a"/>
+  <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 48 48" x="43" y="354">
+    <g fill="none" stroke="#9aebcb" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="24" cy="24" r="16" /><ellipse cx="24" cy="24" rx="7" ry="16" /><path d="M8 24h32m-26-9h20M14 33h20" /></g>
+  </svg>
+  <text x="98" y="362" font-size="22" fill="#f0f5ff" font-weight="650" text-anchor="start">Open to Opportunities</text>
+  <text x="98" y="387" font-size="17" fill="#bfcee9" font-weight="400" text-anchor="start">Freelance and remote work</text>
+</svg>

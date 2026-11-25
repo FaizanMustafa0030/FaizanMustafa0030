@@ -1,5 +1,7 @@
 # Publish your GitHub profile README
 
+Open [preview.html](preview.html) in your browser to inspect the complete profile locally. Narrow the browser window to see the mobile layouts. The preview follows your system’s light or dark theme. Keep it next to `README.md` and `assets/` so its relative image paths resolve.
+
 ## 1. Open your profile repository
 
 1. On GitHub, select your avatar and choose **Your profile**. The last part of that page’s address is your username.
@@ -10,9 +12,9 @@
 
 ### Using the GitHub website
 
-1. Open the profile repository. Choose **Add file → Upload files**, then drag the local `assets` folder onto the upload area. Check that the uploaded paths start with `assets/` and include both banners and the `assets/icons/` folder. Commit the upload. [GitHub file upload instructions](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository)
+1. Open the profile repository. Choose **Add file → Upload files**, then drag the local `assets` folder onto the upload area. Check that the uploaded paths start with `assets/` and include the desktop and mobile SVGs and the `assets/icons/` folder. Commit the upload. [GitHub file upload instructions](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository)
 2. Open the top-level `README.md` and click the pencil icon. Replace its contents with the contents of the local `README.md`. If the file is missing, choose **Add file → Create new file** and name it `README.md`.
-3. Select **Preview**, then commit the README to the default branch. Return to **Your profile** to check the banner, icons, and project tables.
+3. Select **Preview**, then commit the README to the default branch. Return to **Your profile** to check the hero, skill panels, project cards, and timeline.
 
 ### Using Git
 
@@ -33,7 +35,7 @@ git commit -m "Redesign GitHub profile README"
 git push
 ```
 
-Open your GitHub profile after the push and check the rendered result. Try a narrow window and both GitHub themes. `SETUP.md` is a local guide. Publish `README.md` and `assets/` for the profile itself.
+Open your GitHub profile after the push and check the rendered result in a narrow window and both GitHub themes. Publish `README.md` and `assets/`. Keep `SETUP.md` and `preview.html` handy for local review.
 
 ## 3. Add contact badges when your links are ready
 
@@ -59,4 +61,10 @@ Preview the new section and click through each badge after committing the change
 
 ## Asset sources
 
-The banners and contact badges were created for the profile. Technology artwork includes locally stored [Devicon v2.17.0](https://github.com/devicons/devicon/releases/tag/v2.17.0) logos and custom icons for data and testing tools. The Devicon notice is included in `assets/icons/DEVICON-LICENSE.txt`.
+Each skill panel embeds its logo vectors. The standalone logos and custom glyphs are in `assets/icons/`.
+
+- The development and testing brand marks include logos from [Devicon v2.17.0](https://github.com/devicons/devicon/releases/tag/v2.17.0). The license is in `assets/icons/DEVICON-LICENSE.txt`.
+- The Node.js, WordPress, Power BI, Google Maps, LinkedIn, and Upwork logo files come from the [SVG Logos collection](https://github.com/gilbarbara/logos/tree/main/logos). The Sales Navigator tile uses the LinkedIn brand mark.
+- The Excel vector comes from [vscode-icons](https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_excel.svg). Its license is in `assets/icons/VSCODE-ICONS-LICENSE.txt`.
+- The Google Sheets vector and Seamless mark come from [Google’s product logo asset](https://fonts.gstatic.com/s/i/productlogos/sheets_2020q4/v8/192px.svg) and [Seamless](https://seamless.ai/), respectively.
+- The profile layouts and the glyphs for general skills, email, and portfolio were drawn for this README.

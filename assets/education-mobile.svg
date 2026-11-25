@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="432" height="380" viewBox="0 0 432 380" role="img" aria-labelledby="title description" font-family="Segoe UI, Arial, sans-serif">
+  <title id="title">Education and Training</title>
+  <desc id="description">BS Software Engineering, Superior University, Lahore. Sixth semester, expected graduation in 2028, CGPA 3.29 out of 4.00. AWS Cloud Practitioner Essentials, Course completion · October 2026. SQL Fundamentals, Training · December 2025. Life Management Skills Training Program, Training · March 2024</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#101e35"/>
+      <stop offset="1" stop-color="#0b1527"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="431" height="379" rx="22" fill="url(#panel)" stroke="#304568"/>
+  <rect x="17" y="17" width="398" height="100" rx="15" fill="#13233d" stroke="#304568"/>
+  <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 48 48" x="30" y="34">
+    <g fill="none" stroke="#8ad6ff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="m6 18 18-9 18 9-18 9-18-9Zm8 5v9c6 6 14 6 20 0v-9m8-4v12" /></g>
+  </svg>
+  <text x="74" y="48" font-size="23" fill="#f0f5ff" font-weight="680" text-anchor="start">BS Software Engineering</text>
+  <text x="74" y="73" font-size="17" fill="#bfcee9" font-weight="400" text-anchor="start">Superior University · Lahore</text>
+  <text x="74" y="96" font-size="14" fill="#80d6ff" font-weight="600" text-anchor="start">6th semester · Expected 2028 · 3.29/4.00 CGPA</text>
+  <rect x="17" y="130" width="398" height="69" rx="12" fill="#13233d" stroke="#304568"/>
+  <text x="31" y="157" font-size="17" fill="#f0f5ff" font-weight="650" text-anchor="start">AWS Cloud Practitioner Essentials</text>
+  <text x="31" y="180" font-size="16" fill="#bfcee9" font-weight="400" text-anchor="start">Course completion · October 2026</text>
+  <rect x="17" y="208" width="398" height="69" rx="12" fill="#13233d" stroke="#304568"/>
+  <text x="31" y="235" font-size="17" fill="#f0f5ff" font-weight="650" text-anchor="start">SQL Fundamentals</text>
+  <text x="31" y="258" font-size="16" fill="#bfcee9" font-weight="400" text-anchor="start">Training · December 2025</text>
+  <rect x="17" y="286" width="398" height="69" rx="12" fill="#13233d" stroke="#304568"/>
+  <text x="31" y="313" font-size="17" fill="#f0f5ff" font-weight="650" text-anchor="start">Life Management Skills Training Program</text>
+  <text x="31" y="336" font-size="16" fill="#bfcee9" font-weight="400" text-anchor="start">Training · March 2024</text>
+</svg>
